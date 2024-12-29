@@ -147,7 +147,7 @@ Additionally, we provide files of books studied during the program. These readin
 
 ## 🐍Python Libraries
 
-* [**NumPy**](https://numpy.org/): Python library used for working with arrays. It also has functions for working in the domain of linear algebra, Fourier transform, and matrices. <br>
+* [**NumPy**](https://numpy.org/): Python library used for [working with arrays](https://github.com/Mindful-AI-Assistants/storytelling-2024/tree/a56a2170b21e64128ff79987ab7a21909284e056/Miscellaneous/NUMPY). It also has functions for working in the domain of linear algebra, Fourier transform, and matrices. <br>
 
 
 
