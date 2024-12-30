@@ -8,7 +8,7 @@
 
 <br>
 
-## <p align="center">  🎭  Storytelling First Semester 2024
+## <p align="center">  🎭  Storytelling First and Second Semester 2024
 #### <p align="center"> **for Data Science and Artificial Intelligence - PUC-SP University** </p>
 
 <br> 
@@ -145,9 +145,19 @@ Additionally, we provide files of books studied during the program. These readin
 
 <br>
 
-## 🐍Python Libraries
+## 🐍 Python Libraries for Data Science and Artificial Intelligence
+
+### 1. General Purpose and Core Libraries
+
+Fundamental libraries for data manipulation, mathematical computations, and general support:
 
 * [**NumPy**](https://numpy.org/): Python library used for [working with arrays](https://github.com/Mindful-AI-Assistants/storytelling-2024/tree/a56a2170b21e64128ff79987ab7a21909284e056/Miscellaneous/NUMPY). It also has functions for working in the domain of linear algebra, Fourier transform, and matrices. <br>
+
+
+
+
+
+
 
 
 
