@@ -166,15 +166,33 @@ Fundamental libraries for data manipulation, mathematical computations, and gene
 
 ## How to Run the Code
 
-1.Clone este repositório
+1. Clone este repositório
 
 ```bash
 git clone https://github.com/seu-repositorio/storytelling-2024.git
 ```
 
+2. Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+   ```
+
+3. Execute os scripts no diretório principal:
+
+```bash
+ python main_script.py
+```
+
+
+## Contributing
+
+
+
 
 
 #
+
 
 ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
 
