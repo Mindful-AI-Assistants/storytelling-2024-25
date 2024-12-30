@@ -31,6 +31,7 @@ We extend our sincere gratitude to Professor [✨ Rooney Ribeiro Albuquerque Coe
 * Resources
 * Readings
 * Python Libraries for Data Science and Artificial Intelligence
+* How to Run the Code
 * Contributing
 * License
 
@@ -160,6 +161,16 @@ Fundamental libraries for data manipulation, mathematical computations, and gene
 
 
 
+
+
+
+## How to Run the Code
+
+1.Clone este repositório
+
+```bash
+git clone https://github.com/seu-repositorio/storytelling-2024.git
+```
 
 
 
