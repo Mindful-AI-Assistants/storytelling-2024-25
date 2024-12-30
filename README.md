@@ -187,6 +187,13 @@ pip install -r requirements.txt
 
 ## Contributing
 
+We welcome contributions to this project! If you'd like to contribute, please follow these steps:
+
+1. **Fork the repository**: Click the "Fork" button at the top of the repository page to create your own copy of the project.
+2. **Clone the repository**: Clone your forked repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/your-username/your-forked-repository.git
+   ```
 
 
 
