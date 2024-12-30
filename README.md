@@ -26,11 +26,11 @@ We extend our sincere gratitude to Professor [✨ Rooney Ribeiro Albuquerque Coe
 
 ## 📊 Table of Contents
 
-* About
+* About  Storytelling
 * Projects
 * Resources
 * Readings
-* Python Libraries
+* Python Libraries for Data Science and Artificial Intelligence
 * Contributing
 * License
 
