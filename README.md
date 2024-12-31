@@ -154,6 +154,16 @@ Fundamental libraries for data manipulation, mathematical computations, and gene
 
 * [**NumPy**](https://numpy.org/): Python library used for [working with arrays](https://github.com/Mindful-AI-Assistants/storytelling-2024/tree/a56a2170b21e64128ff79987ab7a21909284e056/Miscellaneous/NUMPY). It also has functions for working in the domain of linear algebra, Fourier transform, and matrices. <br>
 
+* [**Pandas**](https://pandas.pydata.org/): Library for data manipulation and analysis, providing data structures like DataFrames for handling tabular data. <br>
+
+* [**Matplotlib**](https://matplotlib.org/): Comprehensive library for creating static, animated, and interactive visualizations in Python. <br>
+
+* [**Seaborn**](https://seaborn.pydata.org/): High-level interface for creating informative and attractive statistical graphics. <br>
+
+* [**SciPy**](https://scipy.org/): Library for scientific and technical computing, providing functions for optimization, integration, interpolation, eigenvalue problems, and other mathematical tasks. <br>
+
+
+
 
 
 
