@@ -162,6 +162,24 @@ Fundamental libraries for data manipulation, mathematical computations, and gene
 
 * [**SciPy**](https://scipy.org/): Library for scientific and technical computing, providing functions for optimization, integration, interpolation, eigenvalue problems, and other mathematical tasks. <br>
 
+ <br><br>
+
+### 2. Statistical Analysis
+
+Libraries for statistical data analysis and modeling:
+
+* [**Statsmodels**](https://www.statsmodels.org/): Provides classes and functions for estimating statistical models, as well as conducting statistical tests. <br>
+
+* [**Pingouin**](https://pingouin-stats.org/): Statistical tests, effect sizes, and Bayesian analysis in Python. <br>
+
+* [**PyMC**](https://www.pymc.io/): Probabilistic programming framework for Bayesian statistical modeling and machine learning. <br>
+
+* [**Scipy.stats**](https://docs.scipy.org/doc/scipy/reference/stats.html): Functions for statistical analysis and hypothesis testing, including distributions, tests, and more. <br>
+
+* [**Reliability**](https://reliability.readthedocs.io/): Python package for reliability analysis and statistical modeling. <br>
+
+ <br><br>
+
 
 
 
