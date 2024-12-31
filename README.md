@@ -162,7 +162,7 @@ Fundamental libraries for data manipulation, mathematical computations, and gene
 
 * [**SciPy**](https://scipy.org/): Library for scientific and technical computing, providing functions for optimization, integration, interpolation, eigenvalue problems, and other mathematical tasks. <br>
 
- <br><br>
+ <br>
 
 ### 2. Statistical Analysis
 
@@ -178,7 +178,27 @@ Libraries for statistical data analysis and modeling:
 
 * [**Reliability**](https://reliability.readthedocs.io/): Python package for reliability analysis and statistical modeling. <br>
 
- <br><br>
+ <br>
+
+### 3. Machine Learning and Deep Learning
+
+Widely used tools for machine learning and neural networks:
+
+* [**Scikit-learn**](https://scikit-learn.org/): A simple and efficient tool for data mining and data analysis, featuring a wide variety of machine learning algorithms. <br>
+
+* [**TensorFlow**](https://www.tensorflow.org/): An open-source framework for machine learning and deep learning, often used for training neural networks. <br>
+
+* [**Keras**](https://keras.io/): A high-level neural networks API that runs on top of TensorFlow, designed for fast prototyping. <br>
+
+* [**PyTorch**](https://pytorch.org/): A deep learning framework for flexibility and performance in neural network modeling. <br>
+
+* [**LightGBM**](https://lightgbm.readthedocs.io/): A gradient boosting framework that is particularly effective with large datasets. <br>
+
+* [**XGBoost**](https://xgboost.readthedocs.io/): A powerful, efficient implementation of gradient boosting algorithms. <br>
+
+* [**CatBoost**](https://catboost.ai/): An algorithm for categorical data that helps create high-performance machine learning models. <br>
+
+ <br>
 
 
 
