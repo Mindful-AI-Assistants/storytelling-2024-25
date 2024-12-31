@@ -200,6 +200,19 @@ Widely used tools for machine learning and neural networks:
 
  <br>
 
+### 4. Natural Language Processing (NLP
+
+Libraries for working with natural language:
+
+* [**SpaCy**](https://spacy.io/): Industrial-strength NLP library, known for its speed and accuracy. <br>
+
+* [**Transformers**](https://huggingface.co/transformers/): State-of-the-art natural language processing (NLP) models, including BERT, GPT-3, and more. <br>
+
+* [**NLTK**](https://www.nltk.org/): A toolkit for working with human language data, providing easy access to text processing libraries. <br>
+
+* [**Gensim**](https://radimrehurek.com/gensim/): Topic modeling and document similarity analysis. <br>
+
+<br>
 
 
 
