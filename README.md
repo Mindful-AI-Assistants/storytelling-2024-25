@@ -230,6 +230,26 @@ Libraries and tools for working with image data:
 
 * [**SimpleCV**](http://simplecv.org/): A framework for building computer vision applications using Python. <br>
 
+<br>
+
+### 6. Data Visualization
+
+Libraries for creating graphs, dashboards, and interactive maps:
+
+* [**Matplotlib**](https://matplotlib.org/): A comprehensive library for creating static, animated, and interactive visualizations. <br>
+
+* [**Seaborn**](https://seaborn.pydata.org/): High-level interface for drawing attractive statistical graphics. <br>
+
+* [**Plotly**](https://plotly.com/python/): A graphing library for creating interactive visualizations. <br>
+
+* [**Bokeh**](https://bokeh.org/): Visualization library for creating interactive plots and dashboards. <br>
+
+* [**Altair**](https://altair-viz.github.io/): Declarative visualization library for statistical data visualization. <br>
+
+* [**Dash**](https://dash.plotly.com/): A framework for creating interactive, web-based data dashboards. <br>
+
+
+<br>
 
 
 
