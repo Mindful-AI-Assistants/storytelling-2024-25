@@ -273,6 +273,22 @@ Libraries for geospatial data analysis and mapping:
 
 * [**Geopy**](https://geopy.readthedocs.io/): Geocoding library for performing forward and reverse geocoding. <br>
 
+<br>
+
+### 8. Document Preparation and Collaboration
+
+Tools for preparing technical documents:
+
+* [**Overleaf**](https://overleaf.com/): Online LaTeX editor for collaborative writing of technical documents. <br>
+
+* [**Jupyter Notebooks**](https://jupyter.org/): Web-based interactive environment for data analysis, combining code and rich text. <br>
+
+
+<br>
+
+### 9. Automated Machine Learning (AutoML)
+Libraries that simplify model training:
+
 
 
 
