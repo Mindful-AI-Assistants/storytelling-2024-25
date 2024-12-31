@@ -214,6 +214,24 @@ Libraries for working with natural language:
 
 <br>
 
+### 5. Computer Vision
+
+Libraries and tools for working with image data:
+
+* [**OpenCV**](https://opencv.org/): A library for computer vision and machine learning, offering tools for image processing and manipulation. <br>
+
+* [**PyTorch Vision**](https://pytorch.org/vision/stable/index.html): A collection of computer vision tools integrated with PyTorch for image-based tasks. <br>
+
+* [**TensorFlow Image**](https://www.tensorflow.org/api_docs/python/tf/image): Image processing functions for TensorFlow, including resizing, cropping, and filtering. <br>
+
+* [**Keras Applications**](https://keras.io/api/applications/): Pre-trained deep learning models for computer vision tasks, such as image classification. <br>
+
+* [**Albumentations**](https://albumentations.ai/): An image augmentation library that provides various transformations for image preprocessing. <br>
+
+* [**SimpleCV**](http://simplecv.org/): A framework for building computer vision applications using Python. <br>
+
+
+
 
 
 
