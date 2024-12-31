@@ -251,6 +251,29 @@ Libraries for creating graphs, dashboards, and interactive maps:
 
 <br>
 
+### 7. Geospatial Analysis and Mapping
+   
+Libraries for geospatial data analysis and mapping:
+
+* [**Geopandas**](https://geopandas.org/): Python library for working with geospatial data, including tools for geometric operations and map visualization. <br>
+
+* [**Shapely**](https://shapely.readthedocs.io/): A library for manipulation and analysis of geometric shapes. <br>
+
+* [**Folium**](https://python-visualization.github.io/folium/): A library for creating interactive maps with Leaflet.js. <br>
+
+* [**Kepler.gl**](https://kepler.gl/): A powerful geospatial data visualization tool for large-scale data exploration. <br>
+
+* [**Cartopy**](https://scitools.org.uk/cartopy/docs/latest/): A library for cartographic projections and geospatial data visualization. <br>
+
+* [**Pyproj**](https://pyproj4.github.io/pyproj/): A library for performing coordinate transformations and projections. <br>
+
+* [**Rasterio**](https://rasterio.readthedocs.io/): Library for reading and writing geospatial raster data. <br>
+
+* [**OSMnx**](https://osmnx.readthedocs.io/): Tools for downloading and analyzing street networks from OpenStreetMap. <br>
+
+* [**Geopy**](https://geopy.readthedocs.io/): Geocoding library for performing forward and reverse geocoding. <br>
+
+
 
 
 
