@@ -287,9 +287,19 @@ Tools for preparing technical documents:
 <br>
 
 ### 9. Automated Machine Learning (AutoML)
+
 Libraries that simplify model training:
 
+* [**Overleaf**](https://overleaf.com/): Online LaTeX editor for collaborative writing of technical documents. <br>
 
+* [**Jupyter Notebooks**](https://jupyter.org/): Web-based interactive environment for data analysis, combining code and rich text. <br>
+
+
+<br>
+
+### 10. Time Series Analysis
+
+Libraries for time series data:
 
 
 
