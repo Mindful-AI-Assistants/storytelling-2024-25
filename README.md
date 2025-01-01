@@ -290,10 +290,11 @@ Tools for preparing technical documents:
 
 Libraries that simplify model training:
 
-* [**Overleaf**](https://overleaf.com/): Online LaTeX editor for collaborative writing of technical documents. <br>
+* [**H2O.ai**](https://www.h2o.ai/): Open-source machine learning and AutoML platform for building models at scale. <br>
 
-* [**Jupyter Notebooks**](https://jupyter.org/): Web-based interactive environment for data analysis, combining code and rich text. <br>
+* [**TPOT**](http://epistasislab.github.io/tpot/): AutoML tool based on genetic algorithms to optimize machine learning pipelines. <br>
 
+* [**Auto-sklearn**](https://automl.github.io/auto-sklearn/): AutoML system for scikit-learn that automatically selects models and tunes hyperparameters. <br>
 
 <br>
 
@@ -301,12 +302,25 @@ Libraries that simplify model training:
 
 Libraries for time series data:
 
+* [**Statsmodels**](https://www.statsmodels.org/): Provides tools for time series analysis, regression, and statistical modeling. <br>
+
+* [**Prophet**](https://facebook.github.io/prophet/): Forecasting tool from Facebook for handling time series data. <br>
+
+* [**Darts**](https://github.com/unit8co/darts): Library for deep learning-based time series forecasting. <br>
 
 
+<br>
 
+### 11. Business Intelligence and Reporting
+Tools for business intelligence, reporting, and dashboarding:
 
+* [**Power BI**](https://powerbi.microsoft.com/): Business analytics tool for creating interactive reports and dashboards from data. <br>
 
+<br>
 
+### 12. Others
+
+Additional tools for specialized analyses:
 
 
 
@@ -358,7 +372,7 @@ We welcome contributions to this project! If you'd like to contribute, please fo
 
 #
 
-###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/Storytelling/blob/a1525de2c6af690e03072dbe6afdc4a393c101f2/LICENSE)
+###### <p align="center">[Copyright 2025 Mindful-AI-Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/Storytelling/blob/a1525de2c6af690e03072dbe6afdc4a393c101f2/LICENSE)
  
 <!--
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)   
