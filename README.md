@@ -8,7 +8,7 @@
 
 <br>
 
-## <p align="center">  🎭 Storytelling: First, Second, and Third Semesters of 2024
+## <p align="center">  🎭 Storytelling: First, Second, and Third Semesters of 2024/2025
 #### <p align="center"> **for Data Science and Artificial Intelligence - PUC-SP University** </p>
 
 <br> 
