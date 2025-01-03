@@ -312,6 +312,7 @@ Libraries for time series data:
 <br>
 
 ### 11. Business Intelligence and Reporting
+
 Tools for business intelligence, reporting, and dashboarding:
 
 * [**Power BI**](https://powerbi.microsoft.com/): Business analytics tool for creating interactive reports and dashboards from data. <br>
@@ -322,7 +323,11 @@ Tools for business intelligence, reporting, and dashboarding:
 
 Additional tools for specialized analyses:
 
+* [**Orange**](https://orangedatamining.com/): Open-source data visualization and analysis tool, designed for both novice and expert users. <br>
 
+* [**BeautifulSoup**](https://www.crummy.com/software/BeautifulSoup/): Library for parsing HTML and XML documents and extracting data. <br>
+
+* [**Scrapy**](https://scrapy.org/): Framework for building web scrapers and extracting data from websites. <br>
 
 
 
