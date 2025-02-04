@@ -18,7 +18,20 @@ https://gracemmaa.com/
 https://cherylpychan.com/
 
 https://www.leah-lee.com/
+
 https://jemma.lol/
+
 https://Inkd.in/gh2eyFYA
+
 https://jesseprague.com/
+
+https://justmckissick.com/
+
+https://Inkd.in/gPBmwcfR
+
+https://lnkd.in/geH3VS9M
+https://Inkd.in/g3s9ra7S
+https://syedadam.com/
+https://www.amandahum.com/
+
 
