@@ -55,6 +55,14 @@ https://www.carolchu.ca/
 
 https://katherineliu.me/ https://Inkd.in/gZteUMUc
 
+https://yikodesign.com/
+
+https://devansh.design/
+
+https://Inkd.in/gtAa9nTc
+
+https://Inkd.in/ga2WW57n
+
 
 
 
