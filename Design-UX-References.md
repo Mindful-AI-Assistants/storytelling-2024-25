@@ -33,3 +33,11 @@ https://lnkd.in/geH3VS9M
 
 https://Inkd.in/g3s9ra7S
 
+https://syedadam.com/
+
+https://www.amandahum.com/
+
+https://www.zixianjia.com/
+
+https://www.khanglee.com/
+
