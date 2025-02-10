@@ -220,6 +220,21 @@ https://haleypark.design/ https://lnkd.in/ggw2SEh6
 
 ## Uber
 
+https://www.leedave.com/ https://lnkd.in/ggnD4hbe
+
+https://www.cbshin.com/
+
+
+
+<br>
+
+## Linkedin
+
+
+
+
+
+
 
 
 
