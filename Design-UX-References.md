@@ -139,6 +139,21 @@ https://joseph.cv/
 
 https://jasonyuan.design/
 
+https://www.zaidsyed.com/
+
+https://Inkd.in/gtvRUhXq
+
+https://williamle.design/
+
+
+
+
+
+
+
+
+
+
 
 
 
