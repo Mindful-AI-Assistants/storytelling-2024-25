@@ -1,7 +1,7 @@
 
 ## UI/UX Portfolios from Designers at Google, Meta, Netflix & More!
 
-### Meta
+## Meta
 
 https://Inkd.in/gbbd3zKG
 
@@ -100,4 +100,26 @@ https://verlichen.com/
 https://srinivasan.design/
 
 https://ziaoh.com/
+
+https://joshglucas.com/
+
+
+<br>
+
+
+## Microsoft
+
+https://lukaschulz.com/
+
+
+
+
+
+
+
+
+
+
+
+
 
