@@ -133,15 +133,11 @@ https://Inkd.in/g9YWuJNg
 
 ## APple
 
+https://www.wenjing.io/
 
+https://joseph.cv/
 
-
-
-
-
-
-
-
+https://jasonyuan.design/
 
 
 
