@@ -152,9 +152,10 @@ https://kaijordan.com/
 https://www.ethanchng.com/
 
 
+<br>
 
 
+## AMAZON
 
-
-
+https://Inkd.in/g3p-Wxp2
 
