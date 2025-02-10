@@ -1,6 +1,18 @@
 
 # UI/UX Portfolios from Designers at Google, Meta, Netflix & More!
 
+
+ <br><br>
+
+ 
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/dea8f82d-6ef9-4749-92c2-c7e83f9bc32a"  />
+
+
+ <br><br>
+
+
+
 ## Meta
 
 https://Inkd.in/gbbd3zKG
