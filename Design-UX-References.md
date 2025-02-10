@@ -91,7 +91,7 @@ https://ndrewgood.com/
 
 https://Inkd.in/gSwBvDkc
 
-httos://Inkd.in/aiTDmp
+httos://Inkd.in/aiTD
 
 https://Inkd.in/gtrKrqXe
 
