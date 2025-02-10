@@ -145,12 +145,11 @@ https://Inkd.in/gtvRUhXq
 
 https://williamle.design/
 
+https://seanlindesign.com/
 
+https://kaijordan.com/
 
-
-
-
-
+https://www.ethanchng.com/
 
 
 
