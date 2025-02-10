@@ -1,7 +1,7 @@
 
-# UI/UX Portfolios from Designers at Google, Meta, Netflix & More!
+## UI/UX Portfolios from Designers at Google, Meta, Netflix & More!
 
-## Meta
+### Meta
 
 https://Inkd.in/gbbd3zKG
 
@@ -67,7 +67,7 @@ https://Inkd.in/ga2WW57n
 <br>
 
 
-## Google
+### Google
 
 https://www.cedricith.com/
 
