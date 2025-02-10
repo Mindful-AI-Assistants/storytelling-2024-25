@@ -49,3 +49,15 @@ https://Inkd.in/gMUU5hN8
 
 https://Inkd.in/gbbd3zKG
 
+https://www.zegzulka.com/
+
+https://www.carolchu.ca/
+
+https://katherineliu.me/ https://Inkd.in/gZteUMUc
+
+
+
+
+
+
+
