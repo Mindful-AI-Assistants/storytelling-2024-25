@@ -145,6 +145,19 @@ Below is a list of **23 projects** developed using **Orange**:
 7. **Data Preprocessing and Cleaning**
    - **Description**: Clean and transform data to prepare it for modeling.
    - **Objectives**: Ensure data quality before model use.
+8. **Sentiment Analysis**
+   - **Description**: Analyze sentiment in textual data and visualize word frequency.
+   - **Objectives**: Identify sentiment patterns in texts.
+
+9. **Regression Analysis**
+   - **Description**: Apply regression models to predict continuous variables.
+   - **Objectives**: Predict continuous values based on independent variables.
+
+10. **Decision Trees**
+    - **Description**: Create and visualize decision trees for classification or regression.
+    - **Objectives**: Explain decision-making based on hierarchical rules.
+
+
 
 
 
