@@ -106,8 +106,14 @@ Explore notable projects developed during the course. Each project is an opportu
      
    - [project_4 - Diamond Valuation Prediction](https://github.com/Mindful-AI-Assistants/storytelling-first-semester-2024/tree/da7f282a91a51661fee4068159c1fa032a5f2fcf/project_4%20/Codes/Codes%20%20English)
     
+<br>   
 
-<br>     
+## 🍊 **Orange Projects**
+
+**[Orange](https://orangedatamining.com/)** is an open-source data visualization and analysis tool widely used in data mining and machine learning projects. It allows for intuitive workflows and visual programming without the need for extensive code.
+
+
+<br>
   
 ## 🛠️ Resources
 
