@@ -112,6 +112,21 @@ Explore notable projects developed during the course. Each project is an opportu
 
 **[Orange](https://orangedatamining.com/)** is an open-source data visualization and analysis tool widely used in data mining and machine learning projects. It allows for intuitive workflows and visual programming without the need for extensive code.
 
+<br>
+
+### 🔍 Projects Developed in Orange
+
+Below is a list of **23 projects** developed using **Orange**:
+
+1. **Data Exploration and Visualization**
+   - **Description**: Explore data through various visualizations and understand relationships between variables.
+   - **Objectives**: Understand data distribution and variable interactions.
+
+2. **Predictive Modeling**
+   - **Description**: Apply models like logistic regression and Random Forest to make predictions and evaluate performance.
+   - **Objectives**: Create and validate predictive models with performance metrics.
+
+
 
 <br>
   
