@@ -19,7 +19,7 @@
 
 Welcome to the Storytelling repository! This repository is dedicated to the Storytelling course offered in the 1st and 2nd semesters of the 2024/2025 academic year within the Data Science and Humanistic Artificial Intelligence undergraduate program at the Pontifical Catholic University of São Paulo (PUC-SP).
 
-We extend our sincere gratitude to Professor [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/) for his invaluable guidance and expertise throughout this course. His dedication to excellence in teaching has been instrumental in shaping our understanding of storytelling and data science.
+We extend our sincere gratitude to our Beloved Professor [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/) for his invaluable guidance and expertise throughout this course. His dedication to excellence in teaching has been instrumental in shaping our understanding of storytelling and data science.
 
 
 <br>
