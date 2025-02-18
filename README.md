@@ -125,6 +125,17 @@ Below is a list of **23 projects** developed using **Orange**:
 2. **Predictive Modeling**
    - **Description**: Apply models like logistic regression and Random Forest to make predictions and evaluate performance.
    - **Objectives**: Create and validate predictive models with performance metrics.
+  
+3. **Clustering Techniques**
+   - **Description**: Utilize clustering techniques to group data into distinct clusters.
+   - **Objectives**: Identify patterns and group data based on similarities.
+
+4. **Dataset Classification**
+   - **Description**: Apply classification algorithms and evaluate their performance.
+   - **Objectives**: Classify data accurately and assess the model.
+
+
+
 
 
 
