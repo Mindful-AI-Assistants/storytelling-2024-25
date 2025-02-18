@@ -24,6 +24,13 @@ We extend our sincere gratitude to our Beloved Professor [✨ Rooney Ribeiro Alb
 
 <br>
 
+
+## 📜 Introduction to the Course
+
+The **Data Science and AI** course at **PUC-SP** provides a comprehensive understanding of data science techniques, tools, and methodologies. The course emphasizes the importance of storytelling in presenting data insights effectively. Students learn to apply various data analysis methods and communicate findings in a compelling manner.
+
+<br>
+
 ## 📊 Table of Contents
 
 * About  Storytelling
