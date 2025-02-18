@@ -108,7 +108,7 @@ Explore notable projects developed during the course. Each project is an opportu
     
 <br>   
 
-## 🍊 **Orange Projects**
+## 🍊 **Orange Datamining**
 
 **[Orange](https://orangedatamining.com/)** is an open-source data visualization and analysis tool widely used in data mining and machine learning projects. It allows for intuitive workflows and visual programming without the need for extensive code.
 
