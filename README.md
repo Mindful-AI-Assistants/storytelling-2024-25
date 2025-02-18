@@ -133,6 +133,20 @@ Below is a list of **23 projects** developed using **Orange**:
 4. **Dataset Classification**
    - **Description**: Apply classification algorithms and evaluate their performance.
    - **Objectives**: Classify data accurately and assess the model.
+  
+5. **Feature Selection**
+   - **Description**: Evaluate and select important features for modeling.
+   - **Objectives**: Improve model performance by reducing dimensionality.
+
+6. **Time Series Analysis**
+   - **Description**: Analyze and visualize temporal data using time series charts.
+   - **Objectives**: Understand trends and variations over time.
+
+7. **Data Preprocessing and Cleaning**
+   - **Description**: Clean and transform data to prepare it for modeling.
+   - **Objectives**: Ensure data quality before model use.
+
+
 
 
 
