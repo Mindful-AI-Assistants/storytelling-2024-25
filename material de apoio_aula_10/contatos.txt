@@ -1,0 +1,15 @@
+nome|email|celular|fixo|skype
+João Pedro|jp@email.com|11 99999-9999|11 1111-1111|joaopedro
+Maria Lucia|ml@email.com|11 99999-8888|11 1111-2222|marialucia
+Leonardo|leo@email.com|11 99999-7777|11 1111-3333|leonardo
+Adriana|adri@email.com|11 99999-6666|11 1111-4444|adriana
+Luiz Eduardo|luiz@email.com|11 99999-5555|11 1111-5555|luizeduardo
+Karina|karina@email.com|11 99999-4444|11 1111-6666|karina
+Luiza|luiza@email.com|11 99999-3333|11 1111-7777|luiza
+Felipe|felipe@email.com|11 99999-2222|11 1111-8888|felipe
+Caio|caio@email.com|11 99999-1111|11 1111-9999|caio
+Aline|aline@email.com|11 88888-9999|11 2222-1111|aline
+Carlos|carlos@email.com|11 88888-8888|11 2222-2222|carlos
+Tamires|tamires@email.com|11 88888-7777|11 2222-3333|tamires
+Ana Maria|anamaria@email.com|11 88888-6666|11 2222-4444|anamaria
+Iara|iara@email.com|11 88888-5555|11 2222-5555|iara
